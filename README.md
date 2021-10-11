@@ -3,7 +3,7 @@
 [Slide Deck](https://docs.google.com/presentation/d/1kPJgIdu8fuf2Ci5hB6wL9CPa2ewXVI9GY5zz5iTyj_w/edit#slide=id.p)
 
 [Dashboard](https://signin.aws.amazon.com/oauth?response_type=code&client_id=arn%3Aaws%3Aiam%3A%3A015428540659%3Auser%2Fspaceneedle-prod&redirect_uri=https%3A%2F%2Fca-central-1.quicksight.aws.amazon.com%2Fsn%2Fdashboards%2Fbf9360c4-48b7-4e83-a389-e226f7c1da59%3Fstate%3DhashArgs%2523%26isauthcode%3Dtrue&forceMobileLayout=0&forceMobileApp=0)<br> 
-An AWS account for is needed for this. Available upon request. Please view the dasboard demonostration video below as an example.
+An AWS account for is needed for this. Available upon request. Please view the dashboard demonstration video below as an example.
 
 [Dashboard Demonstration Video](https://github.com/christopher-ko-law/predicting-cvd/blob/main/Resources/dashboard-demo.mov)<br>
 
