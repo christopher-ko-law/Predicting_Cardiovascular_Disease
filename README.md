@@ -29,6 +29,7 @@ Through our analysis, we found that a person's age, BMI, and blood pressure were
 
 A form was designed as POC to show off the model. This form takes the following inputs: Age, Gender, Height, Weight, Systolic blood pressure, Diastolic blood pressure, Cholesterol level, Glucose level, Smoker, Alcoholic, Physically active. These inputs will be used to predict whether an individual is at risk of cardiovascular disease. <br>
 ![Web Form](/Resources/Presentation%20Files/webapp.PNG)<br>
-Code for this form can be found in the Technology and Pipeline folder. 
-The form was created using flask, and was deployed through AWS Elastic Beanstalk. This can be found under /Technology and Pipeline/eb-flask/.
-The endpoint was deployed through sageMaker. This can be found underneath /Technology and Pipeline/sageMaker/model/. In order to access the endpoint externally, an API Gateway and Lambda function was used. These can be found in their respective folders.
+Code for this form can be found in the Technology and Pipeline folder. <br>
+The form was created using flask, and was deployed through AWS Elastic Beanstalk. This can be found under /Technology and Pipeline/eb-flask/.<Br>
+The endpoint was deployed through AWS SageMaker. This can be found underneath /Technology and Pipeline/sageMaker/model/. 
+In order to access the endpoint externally, an API Gateway and Lambda function was used. The configuration can be found in their respective folders.<br>
